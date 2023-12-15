@@ -1,0 +1,10 @@
+### GNOMEShellExtension template
+# Ignored files for GNOME extension git repository
+
+*.zip
+
+.idea
+
+*.iml
+*.iws
+*.ipr
